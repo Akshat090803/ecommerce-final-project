@@ -28,11 +28,9 @@ Here are some screenshots showcasing **EStore**'s user interface:
 ### Cart Page
 ![Cart Page](public/cart-ecom.png)
 
-### Checkout Page - Step 1
-![Checkout Page Step 1](public/checkout-1.png)
-
-### Checkout Page - Step 2
-![Checkout Page Step 2](public/checkout-2.png)
+### Checkout Page
+![Checkout Page Part 1](public/checkout-1.png)
+![Checkout Page Part 2](public/checkout-2.png)
 
 ### User Profile Page
 ![Profile Page](public/profile-ecom.png)
